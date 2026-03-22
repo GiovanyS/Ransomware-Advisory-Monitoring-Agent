@@ -1,4 +1,4 @@
-# **The Ransomware Advisory Monitoring Agent**
+# The Ransomware Advisory Monitoring Agent
 
 ## **Objective**
 
