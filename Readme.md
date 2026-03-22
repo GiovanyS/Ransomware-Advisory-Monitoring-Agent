@@ -25,11 +25,13 @@ The technologies used include **n8n**, **API**, **JavaScript**, and **Microsoft 
 
 ###  Agent Architecture
 
-<img width="891" height="433" alt="gvuln" src="https://github.com/user-attachments/assets/b67b11fd-4135-46e0-9d5a-569f2272e650" />
+<img width="1718" height="469" alt="image" src="https://github.com/user-attachments/assets/b507bc30-f79d-4348-8b51-51ba5423bd70" />
 
-###  Exemplo de Resultado gerado pela ferramenta:
 
-<img width="770" height="357" alt="image" src="https://github.com/user-attachments/assets/9addf730-1727-485b-83cd-9ea9c95ace3e" />
+###  Example of Generated Result:
+
+<img width="701" height="277" alt="image" src="https://github.com/user-attachments/assets/cc78b55a-77a2-43ee-bbb7-8fcbaff4cf5d" />
+
 
 
 ---
