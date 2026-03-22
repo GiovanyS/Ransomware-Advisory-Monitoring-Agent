@@ -1,5 +1,5 @@
 # The Ransomware Advisory Monitoring Agent
-
+---
 ## Objective
 
 The **Ransomware Advisory Monitoring Agent** is an agent that monitors recent ransomware attacks claimed by threat actor groups and published on the **Ransomware.live** platform.  
@@ -23,12 +23,12 @@ The technologies used include **n8n**, **API**, **JavaScript**, and **Microsoft 
 - Webhook Teams API  
 ---
 
-###  Agent Architecture
+##  Agent Architecture
 
 <img width="1718" height="469" alt="image" src="https://github.com/user-attachments/assets/b507bc30-f79d-4348-8b51-51ba5423bd70" />
 
 
-###  Example of Generated Result:
+##  Example of Generated Result:
 
 <img width="701" height="277" alt="image" src="https://github.com/user-attachments/assets/cc78b55a-77a2-43ee-bbb7-8fcbaff4cf5d" />
 
