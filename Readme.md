@@ -1,6 +1,6 @@
 # The Ransomware Advisory Monitoring Agent
 
-## **Objective**
+## Objective
 
 The **Ransomware Advisory Monitoring Agent** is an agent that monitors recent ransomware attacks claimed by threat actor groups and published on the **Ransomware.live** platform.  
 
